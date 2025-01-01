@@ -1,5 +1,9 @@
 # Math-2024-25-Winter
 
+## Web page
+
+[https://dchorazkiewicz.github.io/Math-2024-25-Winter/](https://dchorazkiewicz.github.io/Math-2024-25-Winter/)
+
 ### Konfiguracja środowiska pracy
 
 1. Założenie konta na [GitHub](http://github.com) (darmowe!) -- warunek konieczny do pracy oraz zaliczenia zajęć.
@@ -37,4 +41,5 @@
    * LaTeX: [https://www.latex-project.org/get/](https://www.latex-project.org/get/) and [link](https://tilburgsciencehub.com/topics/research-skills/templates-dynamic-content/templates/amsmath-latex-cheatsheet/)
    * Geogebra [https://www.geogebra.org/](https://www.geogebra.org/)
 
+---
 ---
